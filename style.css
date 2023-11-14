@@ -1,0 +1,23 @@
+body{
+    color:darkseagreen;
+    background-color: #D2E3C8;
+}
+
+li{
+    color:#e1f4dc;
+    display: inline-block;
+    margin: 2%;
+}
+
+h1{
+    color:#FF9EAA;
+}
+
+p{
+    color:#FFD0D0;
+}
+
+div{
+    text-align:center;
+}
+
